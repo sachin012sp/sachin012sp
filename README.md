@@ -43,12 +43,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin012sp&" alt="sachin012sp" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sachin012sp=&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sachin012sp&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
 ![Snake animation](https://github.com/sachin012sp/sachin012sp/blob/main/github-contribution-grid-snake.svg)
 
-<!---
-sachin012sp/sachin012sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
