@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Sonawane</h1>
-![logo](https://github.com/sachin012sp/sachin012sp/blob/main/Black%20Green%20Modern%20Digital%20Marketing%20Open%20to%20Work%20LinkedIn%20Banner.png)
+<div align="center"> <img sec="https://github.com/sachin012sp/sachin012sp/blob/main/Black%20Green%20Modern%20Digital%20Marketing%20Open%20to%20Work%20LinkedIn%20Banner.png"></div>
 <h3 align="center">A passionate SEO+WordPress-frontend developer from Shahada,M.H.,India</h3>
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Smiley face" width="400"style="border:5px solid black">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin012sp&label=Profile%20views&color=0e75b6&style=flat" alt="sachin012sp" /> </p>
