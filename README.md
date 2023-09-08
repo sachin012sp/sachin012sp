@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sachin Sonawane</h1>
 <h3 align="center">A passionate SEO+WordPress-frontend developer from Shahada,M.H.,India</h3>
-
-<img align="right"alt="codingsp"width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Smiley face" width="400"style="border:5px solid black">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin012sp&label=Profile%20views&color=0e75b6&style=flat" alt="sachin012sp" /> </p>
 
 - 🔭 I’m currently working on [E-commerce Website](https://www.artsysoul.in/)
