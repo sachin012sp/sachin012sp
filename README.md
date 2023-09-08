@@ -43,7 +43,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin012sp&" alt="sachin012sp" /></p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sachin012sp=5&theme=flat&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sachin012sp=&theme=flat&combine_all_yearly_contributions=true)
 
 <!---
 sachin012sp/sachin012sp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
